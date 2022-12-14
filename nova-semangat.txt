@@ -2,3 +2,5 @@ NOVA SEMANGAT
 -Membuat konten 
 -membuat platform unuk mengelolah data 
 -membuat form diskusi
+-membuat membuat data kelas
+-kolaborasi dengan banyak expert
